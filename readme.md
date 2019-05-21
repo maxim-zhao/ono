@@ -8,7 +8,7 @@ by Maxim
 
 http://www.smspower.org/maxim
 
-## Preface
+# Preface
 
 This is a sort of incomplete port of [mono](https://www.binaryzoo.com/mono_page/), which is a really great and fun free game. This version lacks much of the more advanced parts of that game, because I ran out of time when developing it. You should play the full game instead!
 
@@ -20,7 +20,7 @@ Missing features:
 
 Does *not* work on a real Master System, or on accurate (and inaccurate) emulators. Sorry!
 
-##Story
+## Story
 
 You are a white circle. You shoot bullets all day long. You wish the world were
 more white, like you. But it is all black. This makes you sad.
@@ -39,19 +39,19 @@ wonderful, glorious white! This made you happy.
 
 So you took on a new mission: turn the world 100% white.
 
-##Controls
+## Controls
 
-D-pad = move
-1 = shoot further anticlockwise
-2 = shoot further clockwise
-1+2 = shoot in the opposite direction
+| D-pad | move |
+|   1   | shoot further anticlockwise     |
+|   2   | shoot further clockwise         |
+|  1+2  | shoot in the opposite direction |
 
-##Disclaimer
+## Disclaimer
 
 I realise the story might sound somewhat racially charged if you were prone to
 read unnecessary things into an innocent pile of crap story. So don't.
 
-##History
+## History
 
 1.00
 27th March 2009
