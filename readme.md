@@ -8,6 +8,8 @@ by Maxim
 
 http://www.smspower.org/maxim
 
+Download and see screenshots at http://www.smspower.org/Homebrew/Ono-SMS
+
 # Preface
 
 This is a sort of incomplete port of [mono](https://www.binaryzoo.com/mono_page/), which is a really great and fun free game. This version lacks much of the more advanced parts of that game, because I ran out of time when developing it. You should play the full game instead!
@@ -41,10 +43,12 @@ So you took on a new mission: turn the world 100% white.
 
 ## Controls
 
-| D-pad | move |
-|   1   | shoot further anticlockwise     |
-|   2   | shoot further clockwise         |
-|  1+2  | shoot in the opposite direction |
+| Button | Action                          |
+|--------|---------------------------------|
+| D-pad  | Move                            |
+|   1    | Shoot further anticlockwise     |
+|   2    | Shoot further clockwise         |
+|  1+2   | Shoot in the opposite direction |
 
 ## Disclaimer
 
